@@ -1,5 +1,5 @@
 # {PROJECT NAME}
-## NHSX Analytics Unit - PhD Internship Project
+## NHS England Digitial Analytics and Research Team - PhD Internship Project
 
 ### About the Project
 
@@ -85,7 +85,7 @@ of the [Open Government 3.0][ogl] licence.
 
 ### Contact
 
-To find out more about the [Analytics Unit](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/) visit our [project website](https://nhsx.github.io/AnalyticsUnit/projects.html) or get in touch at [analytics-unit@nhsx.nhs.uk](mailto:analytics-unit@nhsx.nhs.uk).
+To find out more about the [Digitial Analytics and Research Team](https://www.nhsx.nhs.uk/key-tools-and-info/nhsx-analytics-unit/) visit our [project website](https://nhsx.github.io/AnalyticsUnit/projects.html) or get in touch at [analytics-unit@nhsx.nhs.uk](mailto:analytics-unit@nhsx.nhs.uk).
 
 <!-- ### Acknowledgements -->
 
